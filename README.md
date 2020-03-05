@@ -28,7 +28,7 @@ An annoying but effective meeting reminder that ensures you will never miss a me
 # Instructions - For Download
 
 **Step 1:**
-[Click here to Download](MeetingReminderBlackout/blob/master/MeetingReminderBlackout/bin/Release/MeetingReminderBlackout.exe).
+[Click here to Download](MeetingReminderBlackout/bin/Release/MeetingReminderBlackout.exe).
 
 **Step 2:**
 Move the Downloaded Executable to somewhere semi-permanent (its own folder somewhere) or easy to find on your machine (not the downloads folder).
